@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Card_Mat.unity
+  isLoaded: 1
+  isActive: 1
